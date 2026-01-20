@@ -31,5 +31,5 @@ search:
         - tagging
 theme:
   appearance: light
-  accentColor: indigo
-  grayColor: slate
+  accentColor: jade
+  grayColor: gray
