@@ -10,8 +10,8 @@ metadata:
 featured:
   - https://iiif.vam.ac.uk/collections/O297237/manifest.json
   - https://iiif.vam.ac.uk/collections/O11510/manifest.json
-  - https://api.dc.library.northwestern.edu/api/v2/works/d4c62d7f-f50d-4b29-85e0-5d380675bec7?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/e0d60273-e64c-49d8-99dc-d1af8f4c6266?as=iiif
+  - https://iiif.vam.ac.uk/collections/O493797/manifest.json
+  - https://iiif.vam.ac.uk/collections/O108678/manifest.json
 search:
   results:
     work:
