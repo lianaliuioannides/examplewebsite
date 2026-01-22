@@ -1,6 +1,7 @@
 collection:
   - https://iiif-set-creator.fly.dev/sets/v-a-ceramics/collection.json
   - https://iiif-set-creator.fly.dev/sets/v-a-japan-ceramics/collection.json
+  - https://iiif-set-creator.fly.dev/sets/v-a-volume-3/collection.json
 metadata:
   - Subject
   - Date
